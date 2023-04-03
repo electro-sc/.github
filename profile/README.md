@@ -1,4 +1,4 @@
-![Open Source at Electro SC](../master/Images/open-at-electro-green.png) 
+![Open Source at Electro SC](https://github.com/electro-sc/.github/blob/master/Images/open-at-electro-green.png) 
 
 # Who Are We?
 Electro Club is a scientific space created on the 19th of July 2011. The Club is located within the faculty of Technology at the M'hamed Bouguerra University of Boumerdes (U.M.B.B), Algeria.
