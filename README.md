@@ -4,7 +4,7 @@
 
 Default community files for the Electro Scientific Club organization on GitHub.
 
-![Open Source at Electro SC](Images/open-at-electro-purple.png) 
+![Open Source at Electro SC](Images/open-at-electro-green.png) 
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
