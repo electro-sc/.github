@@ -3,16 +3,7 @@
 # Who Are We?
 Electro Club is a scientific space created on the 19th of July 2011. The Club is located within the faculty of Technology at the M'hamed Bouguerra University of Boumerdes (U.M.B.B), Algeria.
 
-<b>Electro Scientific Club</b>'s doors are open to all ambitious students that are wishing to follow more closely the volution of technology. In particular electronics and robotics.
-
-## Our Mission
 <b>Electro Scientific Club</b> is dedicated to offering a welcoming and encouraging environment for university students and aspiring engineers to learn about electronics. We aim to create a supportive community that fosters creativity, innovation, and collaboration, and encourages our members to explore their passion for electronics in a friendly setting.
-
-## Our Goal
-Our Club's goal is to equip our members with the knowledge, skills, and confidence to succeed in hardware engineering. We offer a comprehensive education in the field, covering topics from circuit design to advanced electronics, and provide opportunities for hands-on learning through projects, workshops, and external visits.
-
-We strive to inspire our members to push the boundaries of what's possible in electronics and to work together to create practical solutions that will shape the future of the field.
-
 
 
 ## Get Involved
